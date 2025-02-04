@@ -1,0 +1,8 @@
+/Users/poli/Desktop/Udemy Copilot/clinicalapi/src/main/java/com/proncagliolo/clinicalapp/clinicalapi/ClinicalapiApplication.java
+/Users/poli/Desktop/Udemy Copilot/clinicalapi/src/main/java/com/proncagliolo/clinicalapp/clinicalapi/controllers/ClinicalDataController.java
+/Users/poli/Desktop/Udemy Copilot/clinicalapi/src/main/java/com/proncagliolo/clinicalapp/clinicalapi/controllers/PatientController.java
+/Users/poli/Desktop/Udemy Copilot/clinicalapi/src/main/java/com/proncagliolo/clinicalapp/clinicalapi/dto/ClinicalDataRequest.java
+/Users/poli/Desktop/Udemy Copilot/clinicalapi/src/main/java/com/proncagliolo/clinicalapp/clinicalapi/model/ClinicalData.java
+/Users/poli/Desktop/Udemy Copilot/clinicalapi/src/main/java/com/proncagliolo/clinicalapp/clinicalapi/model/Patient.java
+/Users/poli/Desktop/Udemy Copilot/clinicalapi/src/main/java/com/proncagliolo/clinicalapp/clinicalapi/repos/ClinicalDataRepository.java
+/Users/poli/Desktop/Udemy Copilot/clinicalapi/src/main/java/com/proncagliolo/clinicalapp/clinicalapi/repos/PatientRepository.java

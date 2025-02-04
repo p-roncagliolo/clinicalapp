@@ -1,0 +1,7 @@
+com/proncagliolo/clinicalapp/clinicalapi/repos/PatientRepository.class
+com/proncagliolo/clinicalapp/clinicalapi/ClinicalapiApplication.class
+com/proncagliolo/clinicalapp/clinicalapi/controllers/ClinicalDataController.class
+com/proncagliolo/clinicalapp/clinicalapi/model/ClinicalData.class
+com/proncagliolo/clinicalapp/clinicalapi/repos/ClinicalDataRepository.class
+com/proncagliolo/clinicalapp/clinicalapi/controllers/PatientController.class
+com/proncagliolo/clinicalapp/clinicalapi/model/Patient.class
